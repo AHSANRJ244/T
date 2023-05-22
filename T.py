@@ -18,7 +18,6 @@ try:
 	import concurrent.futures
 except ImportError:
 	os.system("pip install futures")
-
 import os
 import sys
 import time
@@ -1299,7 +1298,7 @@ class Main:
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
     'accept-language': 'en-US,en;q=0.9',
     'cache-control': 'max-age=0',
-     locale=en_US; wd=400x729; fr=08whOmnfmCxhlRE6H..BkajX4.ja.AAA.0.0.BkawZo.AWUe65e5H8g',
+
     'sec-ch-prefers-color-scheme': 'light',
     'sec-ch-ua': '"(Not(A:Brand";v="99"',
     'sec-ch-ua-full-version-list': '"(Not(A:Brand";v="99.0.0.0"',
